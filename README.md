@@ -20,13 +20,13 @@ It assigns a score between 0–100 and a label indicating the severity of the tr
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
 ## 🚀 Setup
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/solana-tx-risk-checker.git
 cd solana-tx-risk-checker
 pip install -r requirements.txt
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
